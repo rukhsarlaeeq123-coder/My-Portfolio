@@ -73,25 +73,8 @@ A quantitative study examining the impact of education expenditure on primary an
 - Economic Policy Analysis
 - Quantitative Data Analysis
 
----
-
-## Repository Structure
-
-```
-├── Data/
-├── Code/
-├── Analysis/
-├── Figures/
-├── Reports/
-└── README.md
-```
-
----
-
 ## Contact
 
 I am interested in opportunities related to research, economics, data analysis, and public policy.
 
-LinkedIn: *Add your LinkedIn profile*
-
-Email: *Add your email address*
+Email: rukhsarlaeeq123@gmail.com
